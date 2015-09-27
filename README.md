@@ -1,4 +1,8 @@
-#Cinnamon Web Developer Applet
+# [Cinnamon-WebDeveloperMenuApplet]
+
+Cinnamon-WebDeveloperMenuApplet is an applet for cinnamon 2.4.8 and Mint 15.
+
+***
 
 ## How to setup:
 
@@ -7,7 +11,7 @@
 
 If you have Git installed you can clone the repo.
 
-    $ git clone https://github.com/sethbergman/Cinnamon-WebDev.git
+    $ git clone https://github.com/infiniteshroom/Cinnamon-WebDeveloperMenuApplet.gitit
     
 
 #### Install applet :
@@ -15,18 +19,18 @@ If you have Git installed you can clone the repo.
 ##### For you
 Copy the folder in your home.
 
-    $ cp -r Cinnamon-WebDev/seth@mintz/ ~/.local/share/cinnamon/applets/
+    $ cp -r Cinnamon-WebDeveloperMenuApplet/web-developer-menu@infiniteshroom/ ~/.local/share/cinnamon/applets/
 
 #### For all users
 
-    # cp -r Cinnamon-WebDev/seth@mintz /usr/share/cinnamon/applets/
+    $ cp -r Cinnamon-WebDeveloperMenuApplet/web-developer-menu@infiniteshroom/ /usr/share/cinnamon/applets/
     
     
 ### Resources :
 
 Apache2 with PHP and MySQL Server and PhPMyAdmin
 
-    # aptitude install apache2 php5 mysql-server phpmyadmin
+    $ aptitude install apache2 php5 mysql-server phpmyadmin
 
 ***  
 		
