@@ -15,11 +15,11 @@ If you have Git installed you can clone the repo.
 ##### For you
 Copy the folder in your home.
 
-    $ cp -r Cinnamon-WebDeveloperMenuApplet/menu@infiniteshroom/ ~/.local/share/cinnamon/applets/
+    $ cp -r Cinnamon-WebDev/seth@mintz/ ~/.local/share/cinnamon/applets/
 
 #### For all users
 
-    # cp -r Cinnamon-WebDeveloperMenuApplet/web-developer-menu@infiniteshroom/ /usr/share/cinnamon/applets/
+    # cp -r Cinnamon-WebDev/seth@mintz /usr/share/cinnamon/applets/
     
     
 ### Resources :
